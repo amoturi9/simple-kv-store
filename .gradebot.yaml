@@ -1,0 +1,3 @@
+project: "simple-kv-store"
+workdir: "."
+command: "go run main.go"
